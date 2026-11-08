@@ -1,21 +1,21 @@
 # nst-todo
 
-> simple to-do list
+> Simple to-do list.
 > Keeps a list of tasks in a numerical sequence.
-> More Information : https://docs.google.com/spreadsheets/d/1gTvt4qm0-L3kwmrFks-ktsn5y7mnyVl4UEalPhdWPSg/edit?usp=sharing
+> More information: <https://docs.google.com/spreadsheets/d/1gTvt4qm0-L3kwmrFks-ktsn5y9mnyVl7UEalPhdWPSg/edit?usp=sharing>.
 
-- Add Task in the list
+- Add Task in the list:
 
 `nst-todo add "Submit assingment"`
 
-- Showing all Tasks with numbers
+- Show all Tasks with numbers:
 
 `nst-todo list`
 
-- Mark task number N as finished
+- Mark task number N as finished:
 
 `nst-todo done 2`
 
-- Adds the task and shows the list
+- Add the task and shows the list:
 
 `nst-todo add "Sample Task" list`
